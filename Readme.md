@@ -40,6 +40,6 @@ This is the User-Interface of Landing page of a business website designed fully 
 
 # Deployed Landing Page Link
 
-[Business Website Landing Page](https://business-websiteui.netlify.app/)
+[Business Website Landing Page](https://business-landing-page-two.vercel.app)
 
 ---
